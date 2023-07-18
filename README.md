@@ -1,4 +1,4 @@
-# ChatGPT in Slack
+# ChatGPT in Slacka
 
 Introducing a transformative app for Slack users, specifically designed to enhance your communication with [ChatGPT](https://openai.com/blog/chatgpt)!
 This app enables seamless interaction with ChatGPT via Slack channels, optimizing your planning and writing processes by leveraging AI technology.
